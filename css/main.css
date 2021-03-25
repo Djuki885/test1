@@ -1,4 +1,6 @@
 body {
 	color: blue;
 	border: 1px solid green;
+	display: block;
+	text-decoration: none;
 }
